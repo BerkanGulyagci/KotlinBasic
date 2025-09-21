@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492365686216",
+    "project_id": "instagramclone-7320f",
+    "storage_bucket": "instagramclone-7320f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492365686216:android:3b09286df113e47cc4ccfd",
+        "android_client_info": {
+          "package_name": "com.berkang.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmociIMDOF7JX_BUeuHPRngMAKISTvBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
